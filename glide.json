@@ -1,0 +1,27 @@
+[
+  {
+    "name": substringfromend,
+    "description": "Substring from the end of the passed String param",
+    "author": "Rogelio Galdamez <rogelio.galdamez@gmail.com>",
+    "params": [
+      {
+        "name": "String",
+        "displayName": "Original String",
+        "type": "string"
+      },
+      {
+        "name": "start",
+        "displayName": "Start index",
+        "type": "number"
+      },
+      {
+        "name": "end",
+        "displayName": "End index",
+        "type": "number"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
